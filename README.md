@@ -9,5 +9,4 @@ MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org
 
 <!-- badges: end -->
 
-This project contains the code for the analysis and graphs used in the article *Light and oligotrophy drive zooplankton transparency patterns in the Global Ocean
-* by Sonnet et al. (2024, submitted).
+This repository contains the code for the analysis and graphs used in the article *Light and oligotrophy drive zooplankton transparency patterns in the Global Ocean* by Sonnet et al. (2024, submitted).
